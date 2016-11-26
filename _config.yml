@@ -7,6 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 冇推特啊
 github_username:  你解析一下不就知道了
-rss_url: /feed.xml
+
 # Build settings
 markdown: kramdown
