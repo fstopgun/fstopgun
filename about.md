@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: 神棍是什么
 permalink: /about/
 ---
+神棍就是说什么什么成真的人。
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+这个神棍比较擅长：工程数学、机器学习理论、写字、打牌
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+能做如下工作：踢足球、当足球教练
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+勉强能做如下工作：产品设计、商业策略设计、数据分析
+
+比较不擅长的事情是：吹牛逼、忽悠钱、自我宣传、演出和做报告
+
