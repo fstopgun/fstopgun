@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "复习正则表达式"
-date:   2016-11-22 15:05:49
+date:   2016-11-29 17:05:49
 categories: jekyll update
 ---
 今天复习了正则表达式的前 1/4。采用的是 Ben Forta 的教材的中文翻译版。
