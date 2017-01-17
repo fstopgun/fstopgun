@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title:  "Master 60 连胜事件"
-date:   2016-01-05 10:30:01
+date:   2017-01-05 10:30:01
 categories: jekyll update
 ---
 上高中的时候，我曾经坚信，数学能够解决者世界上的所有问题。
